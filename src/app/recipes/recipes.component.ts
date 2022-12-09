@@ -1,7 +1,5 @@
 
 import { Component, OnInit, OnDestroy } from '@angular/core';
-import { Recipe } from './recipe.model';
-import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-recipes',
