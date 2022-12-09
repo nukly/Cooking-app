@@ -1,0 +1,13 @@
+.bordered{
+    border: 3px solid;
+    border-radius: 5px;
+    border-color: rgb(207, 64, 181);
+    box-shadow: 10px 10px rgb(194, 187, 192);
+    padding: 10px;
+    margin: 20px;
+    color: rgb(0, 0, 0);
+}
+
+:active{
+    background-color: rgb(255, 80, 147);
+}
